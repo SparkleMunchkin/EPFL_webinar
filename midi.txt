@@ -1,0 +1,22 @@
+USB Host 2 (Keystep)
+	OUT - USB Device Jack 2 (Organelle Midi channel 1)
+	OUT - MIDI DIN 4 (Minibrute)
+	
+DIN Midi 3
+	IN - TR8 (from thru box)
+	OUT - HOST 2 (keystep)
+	OUT - USB Device Jack 2 (Organelle Midi channel 1)
+	OUT - DIN MIDI 3 (to CB box and thru to PIG)
+	OUT - DIN MIDI 4 (to minibrute)
+	OUT - USB DEV 1 ALL (iphone)
+	
+USB HOST 1 (Nanokontrol)
+	OUT - DIN MIDI 3 (to CB box and thru to PIG)
+	
+USB Device 1 (iPhone)
+	OUT - DIN MIDI 4 (minibrute)
+	OUT - DIN MIDI 3 (cb box and pig)
+	OUT - DIN MIDI 2 (to TR8)
+	OUT - USE DEV 2 (chan 1 for org)
+	
+DEC 5 2020
